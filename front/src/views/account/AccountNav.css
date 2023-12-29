@@ -1,0 +1,14 @@
+.account-nav{
+  padding: 0rem 4rem;
+  border-bottom: 1px solid #cecece;
+}
+
+.account-nav__ul__item{
+  padding: 5px 10px;
+  border-bottom: 1px solid transparent;
+}
+
+.account-nav__ul__item--active{
+  color: #50a2e6;
+  border-bottom-color: #50a2e6;
+}

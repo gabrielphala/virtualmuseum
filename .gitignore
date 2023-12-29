@@ -1,0 +1,8 @@
+*/node_modules
+*/dist
+*/package-lock.json
+*/.env
+
+back/public/assets/uploads/artwork/models/*
+back/public/assets/uploads/artwork/paintings/*
+back/public/assets/uploads/artwork/thumbnails/*

@@ -1,0 +1,20 @@
+#painting-preview, #artwork-preview, #thumbnail-preview{
+  position: relative;
+  height: 20rem;
+  margin: 0 1.6rem;
+  border-radius: 6px;
+  background-color: #ddd;
+}
+
+#artwork-preview{
+  height: 40rem;
+}
+
+.model-upload-tabs{
+  padding: 0 1.6rem;
+  margin-bottom: 1rem;
+
+  .btn:not(:last-child){
+    margin-right: 1rem;
+  }
+}

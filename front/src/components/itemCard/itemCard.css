@@ -1,0 +1,23 @@
+.item-card__label{
+  background-color: #cadcf3;
+  padding: 3px;
+  border-radius: 4px;
+  width: fit-content;
+  font-size: 1.1rem;
+  line-height: 1.1rem;
+}
+
+.item-card__channel{
+  margin-top: 1rem;
+}
+
+.item-card__channel .image--back{
+  display: block;
+  height: 2.5rem;
+  width: 2.5rem;
+  margin-right: 1rem;
+}
+
+.item-card__back{
+  height: 18rem;
+}

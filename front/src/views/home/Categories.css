@@ -1,0 +1,11 @@
+.container__categories{
+  padding: 7rem 15% 5rem;
+}
+
+.container__categories__list li{
+  flex: 0 0 calc(100% / 5 - 1rem);
+  border: 1px solid #8ba1b3;
+  border-radius: 4px;
+  padding: 0.3rem 1rem;
+  text-align: center;
+}

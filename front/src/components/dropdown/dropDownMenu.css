@@ -1,0 +1,28 @@
+.dropdown-menu{
+  position: absolute;
+  right: 0rem;
+  background-color: #fff;
+  border-radius: 8px;
+  margin-top: 1rem;
+  min-width: 30rem;
+  box-shadow: 0 0 11px #c8c8c8, 0 0 2px #d0d0d0;
+  overflow: hidden;
+  z-index: 120;
+}
+
+.dropdown-menu__ul__item{
+  padding: 0.9rem 1.8rem;
+  border-top: 1px solid #f9f9f9;
+}
+
+.dropdown-menu__ul__item__back{
+  display: block;
+  flex: 0 0 4rem;
+  width: 4rem;
+  height: 4rem;
+  margin-right: 1.2rem;
+}
+
+.dropdown-menu__ul__item__details span{
+  display: block;
+}

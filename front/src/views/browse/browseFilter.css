@@ -1,0 +1,10 @@
+.container__browse__filter{
+  background-color: #f1f1f1;
+  padding: 1.5rem 4rem;
+}
+
+.container__browse__filter__item select{
+  padding: 0 !important;
+  border: none !important;
+  color: #50a2e6;
+}

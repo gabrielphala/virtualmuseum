@@ -1,0 +1,41 @@
+.auth{
+  width: 80rem;
+  margin: 8rem auto 0;
+}
+
+.auth__form{
+  flex: 1;
+}
+
+.auth__form__logo{
+  margin-bottom: 2rem;
+}
+
+.auth__form__logo h1 {
+  font-size: 3rem;
+  line-height: 3rem;
+  font-weight: 400;
+}
+
+.auth__form__logo h1 span {
+  font-weight: bold;
+}
+
+.auth__form__logo p {
+  color: #50a2e6;
+}
+
+.auth__form__body .input:not(:last-child) {
+  margin-bottom: 1.5rem;
+}
+
+.auth__form__body input[type='submit'] {
+  margin-top: 2rem;
+}
+
+.auth__background{
+  flex: 0 0 40rem;
+  min-height: 60rem;
+  border-radius: 20px;
+  margin-left: 2rem;
+}

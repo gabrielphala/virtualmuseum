@@ -1,0 +1,9 @@
+.container__browse__list-area{
+  padding: 0 4rem;
+}
+
+.container__browse__list-area_list{
+  margin-top: 2.5rem;
+  gap: 1rem;
+  grid-template-columns: repeat(4, 1fr);
+}

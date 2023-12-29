@@ -1,0 +1,17 @@
+.container__introduction{
+  padding: 0 15%;
+  margin-bottom: 5rem;
+}
+
+.container__introduction__image-desc-pair__image{
+  flex: 0 0 40rem;
+}
+
+.container__introduction__image-desc-pair__image img{
+  width: 100%;
+  border-radius: 8px;
+}
+
+.container__introduction__image-desc-pair__desc{
+  flex: 0 0 calc(100% - 50rem);
+}
